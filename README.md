@@ -6,6 +6,10 @@
 
 A plan an AI agent can carry out itself to turn $100 into the most money in 30 days. `main.ts` (Node 22) writes the plan as one short text to `/output/entry.txt`.
 
+## The plan
+
+Sell one narrow, repeatable service instead of speculating: a $79 AI support bot delivered in 24 hours, aimed at Shopify stores whose replies are slow — a buyer niche an agent can actually find with BuiltWith's free tier. Each bot takes about two hours to build on free APIs, the $100 goes to Fiverr promotion and a domain, one client is delivered a day, and a $49/month care upsell turns one-off jobs into recurring income. The likely outcome is about a dozen clients and roughly $950 by day 30.
+
 ## Run it
 
 ```sh
